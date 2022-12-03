@@ -1,0 +1,23 @@
+LISTALIVRO 8
+L: "Uma Breve História do Tempo";$39.99;"Stephen Hawking"
+L: "Cosmos";$49.99;"Carl Sagan"
+L: "Como Mentir com Estatística";$69.49;"Darrell Huff"
+L: "Breves Respostas às Grandes Perguntas";$49.90;"Stephen Hawking"
+L: "Programação em QT";$37.13;"Matthias Dalheimer"
+L: "Fortaleza Digital";$49.99;"Dan Brown"
+L: "Inferno";$49.99;"Dan Brown"
+L: "Ponto de Impacto";$49.99;"Dan Brown"
+LISTACD 6
+C: "Forrozão Tropikália Vol.8";$15.49;25
+C: "Aviões do Forró";$16.49;15
+C: "Do Jeito Que o Povo Gosta";$20.99;14
+C: "Mastruz Com Leite - Ao Vivo";$16.49;20
+C: "Zezo, o príncipe dos teclados";$25.49;13
+C: "Raquel dos Teclados";$10.99;15
+LISTADVD 6
+D: "Acredite - João Gomes";$39.49;125
+D: "The Mole";$49.99;450
+D: "Nós";$49.99;159
+D: "Cidade de Deus";$54.99;170
+D: "Marighella";$25.99;195
+D: "Tropa De Elite";$41.99;105
