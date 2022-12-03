@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1664146930 source:c:\users\igojo\documents\codes pa\poly\main.cpp
+	<iostream>
+	<string>
+	"Poly.h"
+
+1664145303 c:\users\igojo\documents\codes pa\poly\poly.h
+
+1669302172 source:c:\users\igojo\documents\codes pa\poly\poly.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<fstream>
+	"Poly.h"
+
