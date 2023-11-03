@@ -1,2 +1,2 @@
 # Programacao_avancada
-Programação avançada
+Códigos da disciplina Programção avançada do Curso de Ciência e Tecnologia - UFRN
